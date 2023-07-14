@@ -1,6 +1,6 @@
 import { styled } from "styled-components";
 
-const Button = styled.button`
+const ButtonStyle = styled.button`
     border-color: #beeded;
     border-radius: 15px;
     padding: 0.15rem 1.5rem;
@@ -13,4 +13,4 @@ const Button = styled.button`
     }
 `;
 
-export default Button;
+export default ButtonStyle;

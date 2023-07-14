@@ -14,3 +14,8 @@
 .navbar {
   margin-left: 700px;
 }
+
+.row {
+  display: grid;
+  margin: 5px;
+}
